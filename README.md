@@ -2,7 +2,7 @@
 
 > Personal portfolio website of Yashika Bansal — Security-focused Full-Stack Developer & B.Tech CSE (Information Security) student at VIT Vellore.
 
-🌐 **Live:** [yashika2806.github.io/portfolio](https://yashika2806.github.io/portfolio)
+🌐 **Live:** [yashika2806.github.io/portfolio](https://yashika2806.github.io/HexSoftwares-Personalportfolio/)
 
 ---
 
